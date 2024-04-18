@@ -8,16 +8,16 @@
 
 ### A little about me...     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
  
-- 🎓 I'm an undergrad majoring in Information Technology, passionate about learning and working on interesting and amazing projects that make our lives a little more interesting.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 🛠 DSA and problem solving
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  -  A bit of Full-stack.
+- I'm an undergrad majoring in Information Technology, passionate about learning and working on interesting and amazing projects that make our lives a little more interesting.
+  
+-   I enjoy working on
+    - 🛠 DSA and problem solving
+    - 📊 Machine Learning & Data Science
+    - 🖼 Computer Vision
+    - 💻 A bit of Full-stack.
   
 
- ### Languages
-<img src="https://media.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif" width="50"> 
+ ### Languages 
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -41,7 +41,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 
-### Full Stack Projects
+### Full Stack Projects <img src="https://media.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif" width="50"> 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
@@ -59,15 +59,15 @@
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 -->
-<h2> Github Stats </h2> 
+<h2> Github Stats  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 <a href="https://github.com/Tech-neophyte/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-neophyte&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-neophyte&theme=tokyonight" alt="muskanrani" />
 <br/>
 
-### 📬 Find me at
+### Find me at 📬
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Tech-neophyte)](https://github.com/Tech-neophyte/) 
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/aananditaa0001)](https://www.hackerrank.com/profile/aananditaa0001)
-[![LeetCode Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://leetcode.com/aananditaa/)](https://leetcode.com/aananditaa/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/aananditaa/)](https://leetcode.com/aananditaa/)
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
 -->
